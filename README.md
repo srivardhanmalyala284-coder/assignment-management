@@ -47,3 +47,5 @@ A student confirmation creates an idempotent attempt. The server checks enrollme
 ## Priority status
 
 Priority 1 is the implemented demo-ready core: controlled demo auth, courses and assignments, student workspace and tasks, server-confirmed submission/receipt, teacher review/grading, published feedback, responsive themes, documented authorization, private student-teacher doubt threads, and server-side Study Assist with an honest fallback. Deeper text extraction, deadline-risk inputs, improvement recommendations, and Confusion Radar remain labeled as not yet implemented. See `docs/LIMITATIONS.md`.
+
+https://3000-it6rvmuqycrrl03o6d3uc-65b64141.sg2.manus.computer/
